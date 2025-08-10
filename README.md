@@ -14,7 +14,7 @@
 
 ## 📸 Screenshot
 
-> _Paste your screenshot(s) here!_
+
 >
 > ![Form Builder Screenshot 1 ](https://github.com/sandeepanchakraborty/Form-Builder-Typescript-/blob/main/ss1.png)
 >  ![Form Builder Screenshot 2](https://github.com/sandeepanchakraborty/Form-Builder-Typescript-/blob/main/ss2.png)
@@ -23,7 +23,7 @@
 >  ![Form Builder Screenshot 5](https://github.com/sandeepanchakraborty/Form-Builder-Typescript-/blob/main/ss5.png)
 > 
 >
-> _Tip: To add a screenshot, save it as `screenshot.png` in the root or update the filename above._
+
 
 ---
 
