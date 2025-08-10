@@ -247,7 +247,7 @@ Form-Builder-Typescript-/
 
 ## 📬 Contact
 
-For questions, reach out via [GitHub Issues](https://github.com/sandeepanchakraborty/Form-Builder-Typescript-/issues) or email: [your.email@domain.com](mailto:sandeepanchakraborty123@gmail.com)
+For questions, reach out via [GitHub Issues](https://github.com/sandeepanchakraborty/Form-Builder-Typescript-/issues) or email: [sandeepanchakraborty123@gmail.com](mailto:sandeepanchakraborty123@gmail.com)
 
 ---
 
