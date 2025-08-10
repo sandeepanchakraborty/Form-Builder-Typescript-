@@ -1,4 +1,3 @@
-const handleCloseSaveDialog = () => setSaveDialogOpen(false);
 import { useState } from "react";
 import AnimatedPage from "../components/AnimatedPage";
 import {
@@ -60,6 +59,7 @@ const CreateFormPage = () => {
   };
 
   const handleOpenSaveDialog = () => setSaveDialogOpen(true);
+  const handleCloseSaveDialog = () => setSaveDialogOpen(false);
 
   const handleSaveForm = () => {
     if (!formName.trim()) return;

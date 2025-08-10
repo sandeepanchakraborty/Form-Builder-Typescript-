@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import AnimatedPage from "../components/AnimatedPage";
 import { Box, Typography, Paper, Button, Stack } from "@mui/material";
 import { useNavigate } from "react-router-dom";

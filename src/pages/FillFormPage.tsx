@@ -37,7 +37,7 @@ const FillFormPage = () => {
     setForm(found || null);
     if (found) {
       const initial: Record<string, any> = {};
-      found.fields.forEach((field) => {
+      found.fields.forEach((field: any) => {
         initial[field.id] = getInitialValue(field);
       });
       setValues(initial);

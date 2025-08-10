@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import AnimatedPage from "../components/AnimatedPage";
 import {
-  Box,
   Typography,
   Paper,
   Stack,
@@ -14,6 +13,7 @@ import {
 
 interface FilledForm {
   id: string;
+  formId: string;
   formName: string;
   filledData: Record<string, any>;
   fields: { id: string; label: string }[];
