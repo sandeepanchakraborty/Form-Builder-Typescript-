@@ -147,12 +147,7 @@ Plug in your own React/Vue/Angular components:
 | `schema`  | `object` | Yes      | The form schema definition |
 | `initialValues` | `object` | No | Initial field values |
 | `onSubmit` | `function` | Yes | Submit handler |
-| `onChange` | `function` | No | Called on any field change |
-| `theme` | `object` | No | Custom theme/styles |
 
-### Schema Example
-
-See [example/schema.ts](example/schema.ts) for a full example.
 
 ---
 
